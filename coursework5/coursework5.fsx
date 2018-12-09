@@ -126,7 +126,7 @@ let (<*>) mf ma = applyL mf ma
 //   pureO ((+) 1) <?> pureO 3
 // should evaluate to
 //   Some 4
-
+ 
 
 // If you implemented applyL correctly then                 -> bind the first two argument together, then get a list of functions ??
 //   [(+); fun x y -> y + x] <*> ["@";"$";"%"] <*> ["a";"b";"c"]
