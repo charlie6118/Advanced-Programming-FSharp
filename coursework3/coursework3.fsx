@@ -38,7 +38,7 @@
 type Cell = Empty | Value of int | Pair of (int * int)
 
 let cellList = [Empty ; Value 2; Value 4; Pair (2,5); Empty; Value 4; Empty; Pair (1, 1)]
-
+ 
 // 1. Define a function
 //
 // noEmptyCells : Cell list -> Cell list
