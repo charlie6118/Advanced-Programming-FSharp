@@ -5,5 +5,10 @@ Exchange Student Program in Tallinna Tehnikaülikool, Estonia
 
 Coursework with the following concept
 
-Functional Programming, Pattern Matcing, High-Order Functions, 
-Maybe/ Either monad, Tail Recursion, Test Generator, Computation Expression
+* Functional Programming
+* Pattern Matcing
+* Computation Expression
+* Maybe/ Either monad
+* Tail Recursion
+* Test Generator with FsCheck
+* High-Order Functions
