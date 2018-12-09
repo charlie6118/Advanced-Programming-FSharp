@@ -11,7 +11,7 @@
   Name: Shang-Yi Yu 184242IV
   Tallinn University of Technology Student ID: shanyu
   ------------------------------------
-
+ 
 
   Answer the questions below.  You answers to all questions should be
   correct F# code written after the question. This file is an F#
