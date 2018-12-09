@@ -71,7 +71,7 @@ let myFirstList = [] : bool list
 
 let sampleList = [2;4;5;6]
 
-
+ 
 let rec elem (inputInt:int) inputList =
   match inputInt, inputList with
   | (_, [])                          -> failwith "The input Integer is less than zero or greater than the number of elements in the input List."
