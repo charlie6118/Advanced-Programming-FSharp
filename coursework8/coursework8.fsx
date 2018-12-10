@@ -11,7 +11,7 @@
   Student ID: 184242IV
   ------------------------------------------------------------------------------
 
- 
+  
   Answer the questions below. You answers to the questions should be correct F#
   code written after the question. This file is an F# script file; it should be
   possible to load the whole file at once. If you can't, then you have
