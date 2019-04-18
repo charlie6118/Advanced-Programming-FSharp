@@ -6,7 +6,7 @@ Exchange Student Program in Tallinna Tehnikaülikool, Estonia
 Coursework with the following concept
 
 * Functional Programming
-* Pattern Matcing
+* Pattern Matching
 * Computation Expression
 * Maybe/ Either monad
 * Tail Recursion
