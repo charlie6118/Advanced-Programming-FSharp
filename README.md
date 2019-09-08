@@ -1,9 +1,6 @@
 # Advanced-Programming-FSharp
-## TalTech Fall 2018 Advanced Programming coursework
 
-## Exchange Student Program in Tallinna Tehnikaülikool, Estonia
-
-### Coursework with the following concept
+### TalTech Fall 2018 Advanced Programming coursework
 
 * Functional Programming
 * Pattern Matching
